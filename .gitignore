@@ -27,3 +27,10 @@ docker/mysql/*
 
 # WP-CLI
 wp-cli.local.yml
+
+# INTELLIJ IDEA
+.idea
+.idea/*
+*.iws
+*.iml
+*.ipr
